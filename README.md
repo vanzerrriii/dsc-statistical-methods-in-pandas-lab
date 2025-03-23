@@ -79,10 +79,13 @@ In the cell below, call the DataFrame's `.describe()` method.
 The output contains descriptive statistics corresponding to the columns. Use these to answer the following questions:
 
 - How much is the standard deviation for `piece count`? 
-- How many pieces are in the largest lego set?
+- How many pieces are in the largest lego set? 
 - How many in the smallest lego set? What is the median `val_star_rating`?
 
-________________________________________________________________________________________________________________________________
+StDev_piece_count=825.364580
+Largest_LEGO=7541
+Smallest_LEGO=1
+Median_val_star_rating=4.3
 
 ## Getting Summary Statistics
 
