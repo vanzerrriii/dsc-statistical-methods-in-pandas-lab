@@ -62,7 +62,7 @@ Read the output above, and then answer the following questions:
 - Identify at least 3 columns that contain missing values. 
 
 Write your answer below this line:
-________________________________________________________________________________________________________________________________
+_Rows=_12261_,_Columns_with_numeric_data=_7_,Columns_with_categorical_data_=_7_,Columns_with_missing_values=num_reviews,play_star_rating,review_difficulty______________________________________________________________________________________________
 
 Whereas `.info()` provides statistics about the DataFrame itself, `.describe()` returns output containing basic summary statistics about the data contained with the DataFrame.  
 
